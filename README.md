@@ -1,0 +1,1 @@
+<!-- YTManager is a basic "YOUTUBE MANAGER by using PYTHON & SQLITE3" is a simple tool to manage YouTube videos. View all videos, add new ones with time duration, edit video details like name and duration, and delete unwanted videos. -->
